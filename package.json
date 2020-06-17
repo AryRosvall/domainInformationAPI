@@ -1,0 +1,11 @@
+{
+  "name": "domaininfo",
+  "version": "1.0.0",
+  "description": "Get the domain information API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AryRosvall <aryrosvall@gmail.com>",
+  "license": "MIT"
+}
