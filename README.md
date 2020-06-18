@@ -17,11 +17,11 @@ It uses the next technologies:
 
 This API has the following routes:
 
-### http://localhost:8008/api/v1/domains/
+- https://domain-info-api.herokuapp.com/api/v1/domains/
 
 This route returns all the domains that were searched before.
 
-### http://localhost:8008/api/v1/domains/:domain
+- https://domain-info-api.herokuapp.com/api/v1/domains/:domain
 
 This route returns the information of the specific domain.
 
