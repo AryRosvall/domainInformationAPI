@@ -31,7 +31,7 @@ This route returns the information of the specific domain.
 - Add pagination
 
 ## Contributing
-Feel free to contributing to this project sending your PR to [aryrosvall.com](https://github.com/AryRosvall/)
+Feel free to contributing to this project sending your PR to [repository](https://github.com/AryRosvall/)
 
 ## About Me
 
